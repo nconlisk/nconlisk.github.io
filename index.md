@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nconlisk/nconlisk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Logo: ![Alt](/noel.jpg "Noel")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***Current Position/Affiliation:*** Freelance
 
-### Markdown
+***Skills and Services:*** Programming | Numerical Simulation | Biomedical Engineering | Medical Image Analysis | Photogrammetry | Scientific Writing | Proofreading & Editing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***About me:***
 
-```markdown
-Syntax highlighted code block
+I hold a PhD in Orthopaedic Engineering from the University of Edinburgh UK, and a BEng (honours) degree in Mechanical Engineering (specialising in biomedical engineering) from Galway-Mayo Institute of Technology Ireland.
 
-# Header 1
-## Header 2
-### Header 3
+Working at the interface between engineering and medicine, I employ problem solving and technical engineering skills to answer clinically relevant questions. While my work to date has spanned the fields of cardiovascular biomechanics, orthopaedic engineering and the role of 3D printing in visualisation/presurgical planning, I am constantly on the look out for new areas within which to apply my skills and knowledge.
 
-- Bulleted
-- List
+I am currently improving my software and web development skills through independent study and online learning, with the goal of moving into a developer role. Check out my projects page and blog for further information.
 
-1. Numbered
-2. List
+***Specialist Domain Specific Skills:***
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nconlisk/nconlisk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*Finite element mesh generation from medical imaging data (CT/MRI).
+*Patient specific modelling.
+*Orthopaedic implant design.
+*Design and manufacture of in vitro test apparatus.
+*Musculoskeletal and Cardiovascular biomechanics.
+*Scripting, and high performance computing.
+*3D model creation and visualisation in CAD.
+*Advanced manufacturing processes (manual/CNC machining/3D printing).
