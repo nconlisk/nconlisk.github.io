@@ -3,7 +3,9 @@
 
 ***Current Position/Affiliation:*** Freelance
 
-***Skills and Services:*** Programming | Numerical Simulation | Biomedical Engineering | Medical Image Analysis | Photogrammetry | Scientific Writing | Proofreading & Editing.
+***Skills and Services:*** 
+
+Programming | Numerical Simulation | Biomedical Engineering | Medical Image Analysis | Photogrammetry | Scientific Writing | Proofreading & Editing.
 
 ***About me:***
 
@@ -15,11 +17,11 @@ I am currently improving my software and web development skills through independ
 
 ***Specialist Domain Specific Skills:***
 
-*Finite element mesh generation from medical imaging data (CT/MRI).
-*Patient specific modelling.
-*Orthopaedic implant design.
-*Design and manufacture of in vitro test apparatus.
-*Musculoskeletal and Cardiovascular biomechanics.
-*Scripting, and high performance computing.
-*3D model creation and visualisation in CAD.
-*Advanced manufacturing processes (manual/CNC machining/3D printing).
+* Finite element mesh generation from medical imaging data (CT/MRI).
+* Patient specific modelling.
+* Orthopaedic implant design.
+* Design and manufacture of in vitro test apparatus.
+* Musculoskeletal and Cardiovascular biomechanics.
+* Scripting, and high performance computing.
+* 3D model creation and visualisation in CAD.
+* Advanced manufacturing processes (manual/CNC machining/3D printing).
