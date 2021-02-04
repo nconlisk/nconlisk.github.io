@@ -1,5 +1,5 @@
 
-Logo: ![Alt](/noel.jpg "Noel")
+![Alt](/noel.jpg "Noel")
 
 ***Current Position/Affiliation:*** Freelance
 
