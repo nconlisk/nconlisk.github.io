@@ -13,7 +13,8 @@ I hold a PhD in Orthopaedic Engineering from the University of Edinburgh UK, and
 
 Working at the interface between engineering and medicine, I employ problem solving and technical engineering skills to answer clinically relevant questions. While my work to date has spanned the fields of cardiovascular biomechanics, orthopaedic engineering and the role of 3D printing in visualisation/presurgical planning, I am constantly on the look out for new areas within which to apply my skills and knowledge.
 
-I am currently improving my software and web development skills through independent study and online learning, with the goal of moving into a developer role. Check out my projects page and blog for further information.
+I am currently improving my software and web development skills through independent study and online learning, with the goal of moving into a developer role. 
+
 
 ***Specialist Domain Specific Skills:***
 
