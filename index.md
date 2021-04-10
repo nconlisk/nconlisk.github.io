@@ -30,6 +30,43 @@ I am currently improving my software and web development skills through independ
 
 ___
 
+**Teaching Experience:**
+
+Responsible for teaching and grading undergraduate and postgraduate course work and projects in the follow modules:
+- Finite element analysis theory and practical (using Abaqus).
+- AutoCAD/ProgeCAD.
+- Civil Engineering 1 projects.
+
+Provided supervision and training to PhD, MEng/MSc, BEng students, and Visiting Researchers working on major projects within orthopaedic and cardiovascular biomechanics research groups.
+
+ 
+
+**Other Academic Experience:**
+
+- Referee/Reviewer: Journal of Orthopaedic Research, Journal of Biomechanics, International Journal for Numerical Methods in Biomedical Engineering, PLOS ONE, and Medical Engineering & Physics.
+- Authored and co-authored research papers published in peer-reviewed journals.
+- Presented research findings at both national and international conferences in the form of oral contributions and poster presentations.
+- Collaborated on multiple research projects within a cross-disciplinary team consisting of Engineers, Surgeons and Industrial Partners, and applied project management skills to ensure completion of projects on schedule.
+- Liaised with external software and hardware vendors to ensure necessary tools were in place to successfully complete projects.
+
+___
+
+**Achievements:**
+
+- Small project grant “3D imaging and modelling of atherosclerosis” BHF CoRE funding (2015).
+- Received International Travel Grant from The Royal Academy of Engineers (RAEng) to attend and present research at Computer Methods in Biomechanics and Biomedical Engineering 2010, Valencia, Spain.
+- Received a full scholarship from the University of Edinburgh to pursue a PhD in Orthopaedic Engineering 2008.
+
+
+**Awards:**
+
+- Received a poster prize in the category of “Breaking new technical ground” at the Centre for In Vivo Imaging Science Annual Scientific Meeting, Edinburgh, UK (2013).
+- Received the Celestica Award for graduating student with highest grades in Mechanical Engineering, GMIT Galway (2006).
+- Third in regional finals of the Young Engineer Competition Ireland (2004) for the design and manufacture of a vehicle capable of travelling on land and water.
+
+___
+
+
 **Publications**
 
 Journal publications, book chapters, and details of conference contributions.
