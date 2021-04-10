@@ -42,11 +42,11 @@ Last updated: 22-02-2018
 
 -M. Chung, N. Radacsi, C. Robert, E. D. McCarthy, A. Callanan, N. Conlisk, P. R. Hoskins, V. Koutsos, “On the optimization of low-cost FDM 3D printers for accurate replication of patient-specific abdominal aortic aneurysm geometry”, 3D Printing in Medicine (2018), 4, 1.
 
--N. Conlisk, R. Forsythe, L. Hollis, B.J. Doyle, O. Mc Bride,  J. M. J. Robinson, C. Wang,  C.D. Gray, S.I.K. Semple, T. MacGillivray, E.J.R. van Beek , D.E. Newby, and P.R. Hoskins. “Exploring the biological and mechanical properties of abdominal aortic aneurysms using USPIO MRI and peak tissue stress: a combined clinical and finite element study”, Journal of Cardiovascular Translational Research. 2017; 10(5): 489 – 498. doi: 10.1007/s12265-017-9766-9
+- N. Conlisk, R. Forsythe, L. Hollis, B.J. Doyle, O. Mc Bride,  J. M. J. Robinson, C. Wang,  C.D. Gray, S.I.K. Semple, T. MacGillivray, E.J.R. van Beek , D.E. Newby, and P.R. Hoskins. “Exploring the biological and mechanical properties of abdominal aortic aneurysms using USPIO MRI and peak tissue stress: a combined clinical and finite element study”, Journal of Cardiovascular Translational Research. 2017; 10(5): 489 – 498. doi: 10.1007/s12265-017-9766-9
 
--N. Conlisk, C.R. Howie, and P. Pankaj. “Quantification of Interfacial Motions Following Primary and Revision Total Knee Arthroplasty”, J. Orthop. Res. (2017). doi:10.1002/jor.23653.
+- N. Conlisk, C.R. Howie, and P. Pankaj. “Quantification of Interfacial Motions Following Primary and Revision Total Knee Arthroplasty”, J. Orthop. Res. (2017). doi:10.1002/jor.23653.
 
--N. Conlisk, C.R. Howie, and P. Pankaj. “Computational Modelling of Motion at the Bone-Implant Interface after Total Knee Arthroplasty: The Role of Implant Design and Surgical Fit”, The Knee (2017). doi: 10.1016/j.knee.2017.07.003
+- N. Conlisk, C.R. Howie, and P. Pankaj. “Computational Modelling of Motion at the Bone-Implant Interface after Total Knee Arthroplasty: The Role of Implant Design and Surgical Fit”, The Knee (2017). doi: 10.1016/j.knee.2017.07.003
 
 -D.E. Newby, R. Forsythe, O. McBride, J.M.J. Robson, A. Vesey, R. Chalmers, P. Burns, O.J. Garden, S.I.K. Semple, M. Dweck, C.D. Gray, T. MacGillivray, C. Wang, Y.G. Koutraki, N. Mitchard, A. Cooper, E.J.R. van Beek, G. McKillop, W. Ho, L. Fraser, H. Cuthbert, P.R. Hoskins, B.J. Doyle, N. Conlisk, W. Stuart, C. Berry, G. Roditi, L. Murdoch, R. Holdsworth, E. Scott, L. Milne, F. Strachan, F. Wee, K. Oatey, C. Graham, G. Murray, G. Milne, M. Bucukoglu, K. Goodman, J. Kaczynski, A. Shah, A. Tambyraja, J. Brittenden, G. Houston, R. Lambie, J. Norrie. “Aortic Wall Inflammation Predicts Abdominal Aortic Aneurysm Expansion, Rupture and Need for Surgical Repair”, Circulation. 2017; 136:787-797. doi: 10.1161/CIRCULATIONAHA.117.028433
 
