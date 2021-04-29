@@ -71,11 +71,17 @@ ___
 
 Journal publications, book chapters, and details of conference contributions.
 
-Last updated: 22-02-2018
+Last updated: 29-04-2021
 
  
 
 **Journal Publications (Peer-Reviewed):**
+
+-	S Xie, **Conlisk N**, Hamilton D, Scott C, Burnett R, Pankaj P. A finite element analysis of tibial tritanium cones without stems in varying bone defects. Knee. 2020; 27(3):656-666. doi: 10.1016/j.knee.2020.02.019.
+
+-	Xie, S., **Conlisk, N.**, Hamilton, D., Scott, C., Burnett, R., Pankaj, P., “Metaphyseal cones in revision total knee arthroplasty: the role of stems”, Bone Joint Res. 2020; 9(4):162-172. doi: 10.1302/2046-3758.94.BJR-2019-0239.R1.
+
+-	Doyle BJ, Bappoo N, Syed MBJ, Forsythe RO, Powell JT, **Conlisk N**, Hoskins PR, McBride OMB, Shah ASV, Norman PE, Newby DE. Biomechanical Assessment Predicts Aneurysm Related Events in Patients with Abdominal Aortic Aneurysm. Eur J Vasc Endovasc Surg. 2020;60(3):365-373. doi: 10.1016/j.ejvs.2020.02.023. 
 
 - M. Chung, N. Radacsi, C. Robert, E. D. McCarthy, A. Callanan, **N. Conlisk**, P. R. Hoskins, V. Koutsos, “On the optimization of low-cost FDM 3D printers for accurate replication of patient-specific abdominal aortic aneurysm geometry”, 3D Printing in Medicine (2018), 4, 1.
 
