@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects | Noel Conlisk</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=MuseoModerno:wght@400;700&family=Work+Sans:wght@400;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="icon" href="./images/favicon.png">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="projects.html" class="active">Projects</a></li>
+                <li><a href="academic.html">Academic</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <h1>Personal Projects</h1>
+            <p class="subtitle">This page is home to a collection of personal projects, some of these grew out of work
+                related activities. However, most were done entirely for fun as a way to learn new techniques and
+                technologies.</p>
+        </section>
+
+        <div class="projects-container">
+            <section class="projects-grid">
+                <!-- Bookshelf App -->
+                <div class="project-card">
+                    <div class="project-card-img">
+                        <img src="./images/bookshelf_example-mp83yj8xaWiKpLW3.png" alt="Bookshelf App Screenshot">
+                    </div>
+                    <div class="project-card-content">
+                        <h3>Bookshelf App</h3>
+                        <p>This project built upon the initial skills learned from the ToDo App project, with several
+                            improvements to the UI, and added features such as API calls and accessing data from system
+                            hardware.</p>
+                        <p>Books can be added to the database in three different ways:</p>
+                        <ul>
+                            <li>Manually through the ADD NEW modal</li>
+                            <li>Automatically by typing the book ISBN number into the IMPORT modal</li>
+                            <li>Using system hardware (webcam) with the @zxing/browser library to scan book barcodes
+                                directly</li>
+                        </ul>
+                        <p>On import, book title/author/publication year, and a thumbnail of the artwork are displayed
+                            on the frontend, along side a progress bar indicating how much of the book has been read.
+                        </p>
+                        <div class="project-links">
+                            <a href="https://bookshelf-two-red.vercel.app/" target="_blank">Live Demo</a>
+                            <a href="https://github.com/nconlisk/bookshelf" target="_blank">GitHub</a>
+                        </div>
+                        <div class="tech-stack">
+                            <span>HTML5</span>
+                            <span>CSS</span>
+                            <span>JavaScript</span>
+                            <span>React</span>
+                            <span>Node.js</span>
+                            <span>Postgres</span>
+                            <span>API Integration</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ToDo App -->
+                <div class="project-card">
+                    <div class="project-card-img">
+                        <img src="./images/todoapp-m6LP7knk2QILq5eG.png" alt="ToDo App Screenshot">
+                    </div>
+                    <div class="project-card-content">
+                        <h3>ToDo App</h3>
+                        <p>This project employed modern libraries and approaches to create a simple check list
+                            application, with user authentication, new task creation/updating/deleting. This project was
+                            completed with guidance from a tutorial by <a
+                                href="https://www.youtube.com/watch?v=LYEkguL9PcY" target="_blank">Ania Kubow</a>, to
+                            allow me to become familiar with modern approaches to web application development.</p>
+                        <p>The tutorial was very in-depth, with a "build everything from the ground up" approach.
+                            However, some topics not covered in this project include: test driven development, possible
+                            app vulnerabilities and data security considerations. The tutorial code had to be modified
+                            for deployment on Vercel instead of the cloud provider mentioned in the tutorial.</p>
+                        <div class="project-links">
+                            <a href="https://todo-app-deployed.vercel.app/" target="_blank">Live Demo</a>
+                            <a href="https://github.com/nconlisk/TODO_APP" target="_blank">GitHub</a>
+                        </div>
+                        <div class="tech-stack">
+                            <span>HTML5</span>
+                            <span>CSS</span>
+                            <span>JavaScript</span>
+                            <span>React</span>
+                            <span>Node.js</span>
+                            <span>Postgres</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Secret Santa Desktop App v2 -->
+                <div class="project-card">
+                    <div class="project-card-img">
+                        <img src="./images/ssgui_qt-Yle2LG57rRSDly21.png" alt="Secret Santa GUI v2 Screenshot">
+                    </div>
+                    <div class="project-card-content">
+                        <h3>Secret Santa Desktop App v2</h3>
+                        <p>This project was a new implementation of the Secret Santa v1 app. It leveraged the PyQt
+                            framework to create a much more clean user interface. Additional features implemented in
+                            this new version were:</p>
+                        <ul>
+                            <li>Facility to load names and email addresses from a .csv file in addition to manual input
+                            </li>
+                            <li>Names displayed in the dialogue box below the buttons for verification purposes prior to
+                                the draw</li>
+                            <li>Results backed up to a text file once pairs were drawn</li>
+                        </ul>
+                        <p>The backend interfaces were handled in a similar manner to the v1 app, using Python with
+                            smtplib and email.mime.multipart libraries, and automated emails sent through a dedicated
+                            gmail account.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/nconlisk/SSGUI_QT" target="_blank">GitHub</a>
+                        </div>
+                        <div class="tech-stack">
+                            <span>Python</span>
+                            <span>PyQt</span>
+                            <span>SMTP</span>
+                            <span>CSV Processing</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Secret Santa Desktop App v1 -->
+                <div class="project-card">
+                    <div class="project-card-img">
+                        <img src="./images/ssgui-ALpBXpow1eH6EZpj.png" alt="Secret Santa GUI v1 Screenshot">
+                    </div>
+                    <div class="project-card-content">
+                        <h3>Secret Santa Desktop App v1</h3>
+                        <p>This project was developed in response to a disastrous Christmas gift exchange, where a late
+                            signup to an online pairing website left one family member with no gift and another with too
+                            many! To prevent this from reoccurring, I created a simple GUI based program that would:</p>
+                        <ul>
+                            <li>Collect usernames and email addresses</li>
+                            <li>Draw gift exchange pairs</li>
+                            <li>Automatically notify the paired recipients via email</li>
+                        </ul>
+                        <p>The GUI was built with tkinter, the backend handled with Python using smtplib and
+                            email.mime.multipart libraries, and the automated emails sent through a dedicated gmail
+                            account.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/nconlisk/fun_items" target="_blank">GitHub</a>
+                        </div>
+                        <div class="tech-stack">
+                            <span>Python</span>
+                            <span>Tkinter</span>
+                            <span>SMTP</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Research Group Website -->
+                <div class="project-card">
+                    <div class="project-card-img">
+                        <img src="./images/ortho_website-YZ9anpVaaLcekOEp.png" alt="Research Group Website Screenshot">
+                    </div>
+                    <div class="project-card-content">
+                        <h3>Research Group Website</h3>
+                        <p>A website created for previous employer (2011 - 2013), and hosted at the time on their own
+                            servers. This website was created to replace an outdated one setup by a former group member.
+                            Site was created using basic html, css, and js for gallery features.</p>
+                        <p>This project was kept simple due to server restrictions and my skill level at the time, and
+                            was completed on a voluntary basis outside of my main work time.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/nconlisk/ortho_group" target="_blank">GitHub</a>
+                            <a href="https://ortho-group.vercel.app/" target="_blank">Live Demo</a>
+                        </div>
+                        <div class="tech-stack">
+                            <span>HTML</span>
+                            <span>CSS</span>
+                            <span>JavaScript</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Research Group Website (Drupal) -->
+                <div class="project-card">
+                    <div class="project-card-img">
+                        <img src="./images/ecbm-ALpO7njzqLcaB4We.png" alt="ECBM Website Screenshot">
+                    </div>
+                    <div class="project-card-content">
+                        <h3>Research Group Website (Drupal)</h3>
+                        <p>Due to restructuring of the engineering school hierarchy and a move towards a more
+                            cohesive/unified branding strategy, the previous iteration of the Orthopaedic Engineering
+                            group website was rolled into the main university website.</p>
+                        <p>I received basic training in the University's centrally managed CMS system (Drupal). After
+                            which I was tasked with migrating all essential information from our standalone research
+                            group website to the centrally managed system.</p>
+                        <div class="project-links">
+                            <a href="https://ecbm.eng.ed.ac.uk" target="_blank">Live Site</a>
+                        </div>
+                        <div class="tech-stack">
+                            <span>HTML</span>
+                            <span>CSS</span>
+                            <span>Drupal</span>
+                            <span>CMS</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Python Utilities -->
+                <div class="project-card">
+                    <div class="project-card-img">
+                        <img src="./images/abaqus_batch_slide-YbNnngRW23ueZGPP.png" alt="Python Utilities Screenshot">
+                    </div>
+                    <div class="project-card-content">
+                        <h3>Python Utilities</h3>
+                        <p>This is not a single project, but rather a collection of utilities developed across several
+                            years of academic research. Some are short python scripts designed to automate the creation
+                            or analysis of numerical simulations. Others are for results processing and converting data
+                            from proprietary models to opensource data formats.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/nconlisk/python" target="_blank">GitHub</a>
+                        </div>
+                        <div class="tech-stack">
+                            <span>Python</span>
+                            <span>Abaqus/CAE</span>
+                            <span>VMTK</span>
+                            <span>VTK</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 3D Earth -->
+                <div class="project-card">
+                    <div class="project-card-img">
+                        <img src="./images/cropped-final_rendering_with_hues-Y4LOELo6Owhek5BV.jpg"
+                            alt="3D Earth Render">
+                    </div>
+                    <div class="project-card-content">
+                        <h3>3D Textured Earth</h3>
+                        <p>This project was undertaken to build some fundamental skills in texturing, rendering, and
+                            animation. Inspired by an older version (pre-cycles) of a tutorial by <a
+                                href="https://www.blenderguru.com/tutorials/earth-cycles#.U71ksLGtGAk"
+                                target="_blank">Andrew Price</a>.</p>
+                        <p>On completing a reasonable render for a static image, I then expanded beyond the original
+                            tutorial's limits by adding rotational motion to the planet and animating the camera path to
+                            create a time-lapse fly past effect.</p>
+                        <div class="project-links">
+                            <a href="https://github.com/nconlisk/Blender" target="_blank">GitHub</a>
+                            <a href="https://github.com/nconlisk/Blender/blob/master/Rotating_earth_v5.mpeg"
+                                target="_blank">View Animation</a>
+                        </div>
+                        <div class="tech-stack">
+                            <span>Blender</span>
+                            <span>3D Modeling</span>
+                            <span>Animation</span>
+                            <span>Rendering</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Noel Conlisk. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
