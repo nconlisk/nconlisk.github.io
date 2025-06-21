@@ -1,2 +1,2 @@
 # nconlisk
- portfolio website on pi server
+A simple static portfolio website served from a pi server with backup on GitHub pages.
